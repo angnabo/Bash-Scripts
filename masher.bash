@@ -1,7 +1,7 @@
 #!/bin/bash
 ####
 #Description: masher.bash accepts a string argument and counts the number of letters, digits and special characters
-#that were entered. It loops asking fofr more input until a control character has been entered.
+#that were entered. It loops asking for more input until a control character is entered.
 #The script stops when a control character(*) has been entered anywhere in the string.
 #Author: Anzhelika Nabozhina
 #Date created:22/11/16
